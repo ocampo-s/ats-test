@@ -1,4 +1,4 @@
-This is a public version of the one I submitted as part of a final assignment I built to finish my degree as a full stack developer at [Careeria](https://careeria.fi/) (Sept 2022).
+This is a public version of the one I submitted as part of a final assignment I built to finish my degree as a full stack developer at [Careeria](https://careeria.fi/) (Sept 2022).  You will find the deployed app [here](https://fb-ats-testing.firebaseapp.com/).
 
 ----
 
